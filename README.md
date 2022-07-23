@@ -16,3 +16,4 @@ The Complete Python Pro Bootcamp for 2022](https://www.udemy.com/course/100-days
 ![Screenshot](CategoryConcentration2018.jpg)
 ![Screenshot](How-Much-Can-Paid-Apps-Earn.jpg)
 ![Screenshot](How-Many-Downloads-are-Paid-Apps-Giving-Up-in-2018.jpg)
+![Screenshot](Google-Play-Store-Top-Genres-by-App-Listings.jpg)
